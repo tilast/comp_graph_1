@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DB979AF81BB6B14900DE1573 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = DB979AF71BB6B14900DE1573 /* main.c */; };
+		DB979AF81BB6B14900DE1573 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = DB979AF71BB6B14900DE1573 /* main.c */; settings = {COMPILER_FLAGS = "-Wno-deprecated-declarations"; }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
